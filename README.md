@@ -24,8 +24,11 @@ question 3: Expliquer l'intérêt de créer des branches dans un projet Git
 3.facilité des collaboration et gestion des versions
 4.gestion des corrections de bugs
 
+question  4 :
+sélectionnez d'abord les fichiers modifiés dans la section Unstaged Files et ajoutez-les au Staging Area. 
+rédigez un message de commit dans la zone commit summary pour enregistrer vos modifications cliquer sur stage changes to commit
 
-tests
+
 
 
 
