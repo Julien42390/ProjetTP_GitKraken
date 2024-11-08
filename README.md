@@ -28,6 +28,14 @@ question  4 :
 sélectionnez d'abord les fichiers modifiés dans la section Unstaged Files et ajoutez-les au Staging Area. 
 rédigez un message de commit dans la zone commit summary pour enregistrer vos modifications cliquer sur stage changes to commit
 
+question 5:
+sauvegarde et sécurité des données
+collaboration et partage avec l'équipe
+gestions versions et l'historique
+revue code et intégration
+
+
+test q6
 
 
 
