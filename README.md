@@ -3,7 +3,7 @@
 
 
 # question 2:
-# [Alt text](image.png)
+# ![Alt text](image.png)
 # - ouvrir git ProjetTP_GitKraken
 # - create new repo
 # - chosir un emplacement pour le dépôt
