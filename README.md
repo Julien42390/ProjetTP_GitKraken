@@ -2,7 +2,7 @@
 # question 1:
 
 
-question 2:
+# question 2:
 # [Alt text](image.png)
 # - ouvrir git ProjetTP_GitKraken
 # - create new repo
