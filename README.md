@@ -58,3 +58,10 @@
 # affichage des commits avec détails
 # représentation des merges et conflits
 # affichage des tags
+
+# question 12 :
+# Les tags dans Git sont utilisés pour marquer des points spécifiques dans l’historique du projet, généralement pour indiquer une version stable ou un état important du code
+
+# clique droit add tag
+# nommer et créer le tag
+# pousser le tag vers le dépot distant
